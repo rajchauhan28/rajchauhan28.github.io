@@ -1,1 +1,0 @@
-Latest version of PyLyricFinder is 0.4. Available on github with both source code and exe build use as you want.
